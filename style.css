@@ -1,0 +1,42 @@
+form label {
+    display: inline-block;
+    width: 100px;
+  }
+  
+  form div {
+    margin-bottom: 10px;
+  }
+  
+  .error {
+    color: red;
+    margin-left: 5px;
+  }
+  
+  label.error {
+    display: inline;
+  }
+
+  
+#submitButton{
+    text-align: center;
+}
+#submit{
+    width: 100px;
+    height: 40px;
+}
+
+#form{
+    background-color: rgb(205, 247, 233);
+    border-color: black;
+    border-radius: 5px;
+    
+}
+
+.card_head{
+    text-align: center;
+    background-color: rgb(219, 224, 235);
+}
+
+body{
+    background-color: rgb(219, 224, 235);
+}
